@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "Message from User123",
+        "content":"How are you today?",
+        "received" :"10 minutes ago"
+    },
+    {
+        "title" : "Message from Admin",
+        "content":"Don't forget about our meeting tomorrow at 10 AM.",
+        "received" :"5 minutes ago"
+    },
+    {
+        "title" : "Message from Manager",
+        "content":"Check this out, it's a new email from John Doe!",
+        "received" :"2 hours ago"
+    }
+]
